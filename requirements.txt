@@ -1,0 +1,12 @@
+# Core dependencies
+gradio>=4.0.0
+langchain>=0.1.0
+langchain-groq>=0.1.0
+
+# File processing
+pathlib2>=2.3.0
+PyPDF2>=3.0.0
+
+# Utilities
+typing-extensions>=4.0.0 
+python-dotenv
